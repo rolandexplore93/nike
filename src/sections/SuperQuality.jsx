@@ -1,4 +1,3 @@
-// import { arrowRight } from "../assets/icons"
 import { shoe8 } from "../assets/images"
 import { Button } from "../components"
 
@@ -10,8 +9,7 @@ const SuperQuality = () => {
     >
         <div className="flex flex-1 flex-col">
           <h2 className='font-palanquin text-4xl capitalize font-bold lg:max-w-lg'>
-            We Provide You 
-            <span className="text-coral-red">Super</span>
+            We Provide You <span className="text-coral-red">Super</span>
             <br />
             <span className="text-coral-red">Quality</span> Shoes
           </h2>
