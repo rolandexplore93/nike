@@ -11,7 +11,6 @@ const ReviewCard = ({ imgURL, customerName, rating, feedback }) => {
         </div>
         <h3 className="mt-1 font-palanquin text-3xl text-center font-bold">{customerName}</h3>
     </div>
-
   )
 }
 

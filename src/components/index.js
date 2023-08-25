@@ -11,5 +11,4 @@ export {
     PopularProductCard,
     ServiceCard,
     ReviewCard
-    
 }
